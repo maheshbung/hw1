@@ -1,0 +1,13 @@
+body
+{
+background-image: url("img1.jpg");
+background-position: center;
+background-size: cover;
+}
+.viewresume{
+background-position: center;
+color: "1B284D"
+padding: 15px 32px;
+font-size: 16px;
+cursor: pointer;
+}

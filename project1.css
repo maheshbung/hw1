@@ -1,0 +1,11 @@
+body
+{
+background-image: url("img1.jpg");
+background-position: center;
+background-size: cover;
+}
+.column{
+  display: block;
+  margin-top: "100px";
+  margin-left: "100px"
+}
